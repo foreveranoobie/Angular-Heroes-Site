@@ -1,5 +1,6 @@
 # MyApp
 
+Heroes site. Here you can observe, search, add, update, delete the heroes. You can assign any name to them.
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 15.2.1.
 
 ## Development server
