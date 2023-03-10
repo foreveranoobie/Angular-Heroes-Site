@@ -1,0 +1,9 @@
+a {
+    color: rgb(8, 98, 255);
+    text-decoration-line: none;
+}
+
+a:hover {
+    color: black;
+    font-style: oblique;
+}
